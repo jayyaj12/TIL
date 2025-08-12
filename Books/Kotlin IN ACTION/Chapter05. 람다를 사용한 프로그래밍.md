@@ -22,4 +22,5 @@ fun alphabet() = StringBuilder().apply {
 
     append("\nNow I know the alphabet!")
 }
+// 출력: 
 ```
